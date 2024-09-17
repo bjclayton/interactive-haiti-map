@@ -21,11 +21,11 @@ An interactive map of Haiti with details for each department.
 1. Clone the repository:
 
 ```bash
-    git clone https://github.com/bjclayton/interactive-haiti-map.git
-    cd interactive-haiti-map
+git clone https://github.com/bjclayton/interactive-haiti-map.git
+cd interactive-haiti-map
 ```
 
-2. Open index.html in your browser to view the interactive map.
+2. Open `index.html` in your browser to view the map.
 
 ## Credits
 
